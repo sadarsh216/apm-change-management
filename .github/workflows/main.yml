@@ -24,6 +24,6 @@ jobs:
       with:
         url: https://dev50344.service-now.com/api/537696/github_actions/trigger
         # JSON string of data to pass into request
-        data: '{"action":"pull from dev"}'
+        data: '{"action":" ${{ github.event.head_commit.message }} "}'
         # JSON string of headers to pass into request
         headers: '{"Content-Type": "application/json"}'
