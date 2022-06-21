@@ -7,9 +7,3 @@
 * Hey
 
 `How you doin?`
-# What's up!
-< what? >
-~ test ~
-// Hey there!
-~ All good ~
-sddfssvbdfs
