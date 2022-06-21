@@ -7,4 +7,4 @@
 * Hey
 
 `How you doin?`
-`Hey Pheebs!~
+`Hey Pheebs!
