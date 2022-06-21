@@ -6,7 +6,7 @@
 * test2
 * Hey
 
-`What you doin`
+`How you doin?`
 # What's up!
 < what? >
 ~ test ~
