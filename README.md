@@ -8,5 +8,6 @@
 * Change deployment 4
 * Change deployment 5
 * ch01
+* ch02
 # change failure test
 * Test 20
