@@ -17,4 +17,4 @@
 ~ Test 20,chg_req_1,Test 20
 ~ Test 20,chg_req_2,Test 6
 ~ chg_req_3,Test 20,chg_req_1
-.
+~ chg_req_4
